@@ -1,0 +1,21 @@
+footer{
+  background-color:  #1c1d25;
+  background-color: #202142;;
+  height: 150px;
+  color: white;
+  text-align: center;
+  padding: 18px;
+  font-weight: 800;
+
+  .iconContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .icon {
+    margin: 10px;
+  }
+}
+  
+  
