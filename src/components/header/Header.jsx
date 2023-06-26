@@ -7,7 +7,7 @@ function Header() {
       <nav>
         <ul>
           <li><a href="#about-me">About me</a></li>
-          <li><a href="#projetcs">Projects</a></li>
+          <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact me</a> </li>
         </ul>
       </nav>

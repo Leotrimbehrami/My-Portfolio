@@ -3,7 +3,7 @@ import styles from './footer.module.scss'
 
 function Footer() {
   return (
-    <footer className={styles.contact}>
+    <footer className={styles.contact} id='contact'>
       <h2>Contact me</h2>
       <div className={styles.iconContainer}>
       <a href="https://www.linkedin.com/in/leotrim-behrami-a175aa19a/" className={styles.icon} target="_blank" rel="noreferrer">
