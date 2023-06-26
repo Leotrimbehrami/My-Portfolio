@@ -51,7 +51,7 @@ const Projects = () => {
           </p>
           <hr className={styles.divider} />
           <a
-            href="https://example.com"
+            href="https://notiz-app-aufgabe-mit-context-api.vercel.app/"
             className={styles.projectLink}
             target="_blank"
             rel="noopener noreferrer"
